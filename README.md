@@ -1,3 +1,3 @@
 # hello-world
-another hello-world repo
-This one from Elliott Baral
+another hello-world repo.
+This one from Elliott Baral.
